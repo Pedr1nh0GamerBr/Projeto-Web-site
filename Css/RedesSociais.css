@@ -1,0 +1,68 @@
+.fundo{
+    width: 100%;
+    height: 900px;
+    background: url(../img/Fundo\ de\ RedePNG.png);
+    background-size: 100%;
+    background-position: center;
+}
+.margin{
+    margin-bottom: 0;
+}
+.padding{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.zap{
+    width: 80%;
+}
+.zap img{
+    width: 100%;
+}
+.instagram{
+    width: 80%;
+}
+.instagram img{
+    width: 100%;
+}
+.facebook{
+    width: 80%;
+}
+.facebook img{
+    width: 100%;
+}
+.titulo1{
+    color: white;
+}
+.titulo2{
+    color: white;
+}
+.titulo3{
+    color: white;
+}
+.texto1{
+    border-radius: 10%;
+    background-color: blue;
+    color: white
+}
+.texto2{
+    border-radius: 10%;
+    background-color: blue;
+    color: white
+}
+.texto3{
+    border-radius: 10%;
+    background-color: blue;
+    color: white
+}
+    @media screen and (max-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    color: white;
+    font-weight: bold;
+}

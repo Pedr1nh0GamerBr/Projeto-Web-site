@@ -1,0 +1,52 @@
+.fundo{
+    width: 100%;
+    height: 900px;
+    background: url(../img/Fundo\ tecnológico.jpg);
+    background-size: 100%;
+    background-position: center;}
+.margin{
+    margin-bottom: 0;}
+.padding{
+    padding-bottom: 10px;
+    padding-top: 10px;}
+.notebook{
+    width: 90%;}
+.notebook img{
+    width: 100%;}
+.computador{
+    width: 90%;}
+.computador img{
+    width: 100%;}
+.celular{
+    width: 40%;}
+.celular img{
+    width: 100%;}
+.titulo1{
+    color: white;}
+.titulo2{
+    color: white;}
+.titulo3{
+    color: white;}
+.texto1{
+    border-radius: 100%;
+    background-color: blue;
+    color: white}
+.texto2{
+    border-radius: 100%;
+    background-color: blue;
+    color: white}
+.texto3{
+    border-radius: 100%;
+    background-color: blue;
+    color: white}
+    
+@media screen and (max-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }}
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    color: white;
+    font-weight: bold;}
